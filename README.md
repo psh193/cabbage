@@ -66,3 +66,29 @@ Pubg|78$|Top2
 
 [Bilibili弹幕网](https://www.bilibili.com "点击进入B站")
 [百度搜索](https://www.baidu.com "点击进入")
+
+## 插入代码片段
+
+```c
+#include <stdio.h>
+int main(void)
+{
+	printf("test...\n");
+	return 0;
+}
+```
+
+```cpp
+#include <iostream>
+using namespace std;
+```
+
+```python
+import os;
+```
+
+```bash
+touch files;
+echo "同显内容"
+reboot
+```
