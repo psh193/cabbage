@@ -92,3 +92,6 @@ touch files;
 echo "同显内容"
 reboot
 ```
+
+## 插入图片
+![测试](D://desktop//xx.jpg)
