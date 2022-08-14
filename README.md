@@ -94,4 +94,4 @@ reboot
 ```
 
 ## 插入图片
-![测试](https://sm.ms//image//3SwIAxbKtLckp2Z//xx.jpg)
+![xx.jpg](https://s2.loli.net/2022/08/14/3SwIAxbKtLckp2Z.jpg)
