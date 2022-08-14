@@ -3,6 +3,6 @@
 int main(void){
 
 
-	printf("first_code..\n");
+	printf("second_code..\n");
 	return 0;
 }
